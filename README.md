@@ -1,30 +1,47 @@
 # A Restaurant Menu
-===============
+===================================================================================================
 
- a web based menu for restaurants
+A web based menu for restaurants.  It should resolve some issues and help the business increase sales.
 
-It should resolve some issues and help the business in improving sales.
+the menu should:
 
-Issues that the menu should resolve:
-    - easy and user friendly U/I
-    - a fluid U/X
-    - should be responsive (Primarly used on moblie phones)
+- have a easy and user friendly U/I
+- be fluid and natural when used
+- it should be responsive (Primarly use is for moblie devices that are connected to the internet and can read QR codes.)
 
-menu-aim 
+</hr>
 
-[]()
+pictures of a sample menu below :
+Phone View             |  Desktop View
+:-------------------------:|:-------------------------:
+<img src="_menus.html.png" alt="view of menu" title="phone view" height="600"/>  |  <img src="desktop_menus.html.png" alt="view of menu 2" title="phone view" height="300"/>
 
-![picture of menu]()
 
+===================================================================================================
+## Who will use the menu? I have a regular paper menu.
 
-## Want an example to learn from?
+- the customers who naturally use their phones for most things.
+- if you have a line of people waiting. They can view your products while they wait.
+- people who search for your business online if you have it linked to your business
 
-Check it out look at the index.html -- it
+You have unlimited space to showcase the products 
 
-this is a base template with generic data at the moment
+You can add a section for advertising certain things at certain times like happy hour or valentines day specials like the one below
 
-![another screenshoot]()<br>
-_please look at the above example and let me know what you think._
+<img src="menuItems/adSectionanim.png" alt="view of menu 2" title="phone view" height="300"/>
+
+<br>
+
+some requirements / specifications for the menu:
+- statically created
+- under 8MB in size
+- fastload time 
+
+</hr>
+
+_please look at the above example and let me know what you think. <br> Any ideas you think i can include please help out._
+
+===================================================================================================
 ## FAQ
 
 1. What's the license? 
@@ -32,4 +49,4 @@ _please look at the above example and let me know what you think._
 2. what will this resolve?
     increase sales of items.
 3. I work at a big company that requires a version number on this third party code before I can use it. Do you have a version number?
-    Sure, current version: 1.1
+    Sure, current version: 1.0
