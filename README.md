@@ -14,7 +14,7 @@ the menu should:
 pictures of a sample menu below :
 Phone View             |  Desktop View
 :-------------------------:|:-------------------------:
-<img src="_menus.html.png" alt="view of menu" title="phone view" height="600"/>  |  <img src="desktop_menus.html.png" alt="view of menu 2" title="phone view" height="300"/>
+<img src="_menus.html.png" alt="view of menu" title="phone view" height="600"/>  |  <img src="_desktop_menus.html.png" alt="view of menu 2" title="phone view" height="300"/>
 
 
 ===================================================================================================
