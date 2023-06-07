@@ -39,7 +39,7 @@ some requirements / specifications for the menu:
 
 </hr>
 
-[Menu - 2]([https://duckduckgo.com](https://novaxiophi.github.io/restaurantMenu/).
+[Menu - 2](https://novaxiophi.github.io/restaurantMenu/).
 
 
 
