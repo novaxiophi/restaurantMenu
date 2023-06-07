@@ -38,7 +38,9 @@ some requirements / specifications for the menu:
 - fastload time 
 
 </hr>
-[menu - 2](https://novaxiophi.github.io/restaurantMenu/)
+
+[menu - 2] (https://novaxiophi.github.io/restaurantMenu/). 
+
 _please look at the above example and let me know what you think. <br> Any ideas you think i can include please help out._
 
 ====================================================================================
