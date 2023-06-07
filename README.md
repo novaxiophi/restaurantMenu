@@ -1,5 +1,5 @@
 # A Restaurant Menu
-===================================================================================================
+====================================================================================
 
 A web based menu for restaurants.  It should resolve some issues and help the business increase sales.
 
@@ -17,7 +17,7 @@ Phone View             |  Desktop View
 <img src="_menus.html.png" alt="view of menu" title="phone view" height="600"/>  |  <img src="desktop_menus.html.png" alt="view of menu 2" title="phone view" height="300"/>
 
 
-===================================================================================================
+====================================================================================
 ## Who will use the menu? I have a regular paper menu.
 
 - the customers who naturally use their phones for most things.
@@ -38,10 +38,10 @@ some requirements / specifications for the menu:
 - fastload time 
 
 </hr>
-
+[menu - 2](https://novaxiophi.github.io/restaurantMenu/)
 _please look at the above example and let me know what you think. <br> Any ideas you think i can include please help out._
 
-===================================================================================================
+====================================================================================
 ## FAQ
 
 1. What's the license? 
