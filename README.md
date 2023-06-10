@@ -28,7 +28,7 @@ You have unlimited space to showcase the products
 
 You can add a section for advertising certain things at certain times like happy hour or valentines day specials like the one below
 
-<img src="menuItems/adSectionanim.png" alt="view of menu 2" title="phone view" height="300"/>
+<img src="adSectionanim.png" alt="view of menu 2" title="phone view" height="300"/>
 
 <br>
 
